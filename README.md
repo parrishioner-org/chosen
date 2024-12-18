@@ -3,8 +3,6 @@
 # hello there sadfasdfas dfasdf asdf
 asdf asdf asdfasd
 Chosen is a library for making long, unwieldy select boxes more user friendly...........
-asdf asdf
-asdf
 
 - jQuery support: 1.4+
 - Prototype support: 1.8+
