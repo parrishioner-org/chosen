@@ -1,4 +1,4 @@
-# Chosen  - extra text
+# Chosen
 
 # hello there sadfasdfas dfasdf asdf
 asdf asdf asdfasd
