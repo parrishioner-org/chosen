@@ -254,7 +254,7 @@ class Chosen extends AbstractChosen
       @search_field.removeClassName "default"
 
   search_results_mouseup: (evt) ->
-    target = if evt.target.hasClassName("active-result") then evt.target else evt.target.up(".active-result")
+    target = if evt.target.hasClassName("active-result") then evt.target else evt.target.up(".active-result123")
     if target
       @result_highlight = target
       this.result_select(evt)
