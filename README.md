@@ -7,6 +7,9 @@ asdf
 
 Here is more information about this project.
 
+## Image
+
+![](https://picsum.photos/200)
 
 - jQuery support: 1.4+
 - Prototype support: 1.8+
