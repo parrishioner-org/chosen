@@ -224,6 +224,7 @@ Copyright (c) 2011 by Harvest
         found = true;
       } else if (optionText.indexOf(" ") >= 0 || optionText.indexOf("[") === 0) {
         parts = optionText.replace(/\[|\]/g, "").split(" ");
+        // comment
         if (parts.length) {
           for (_i = 0, _len = parts.length; _i < _len; _i++) {
             part = parts[_i];
