@@ -1,6 +1,6 @@
 /* @group Base */
 .chzn-container {
-  font-size: 13px;
+  font-size: 14px;
   position: relative;
   display: inline-block;
   zoom: 1;
@@ -64,7 +64,7 @@
 .chzn-container-single .chzn-single abbr {
   display: block;
   position: absolute;
-  right: 26px;
+  right: 28px;
   top: 6px;
   width: 12px;
   height: 13px;
