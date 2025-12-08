@@ -1,6 +1,5 @@
 # Chosen
 
-asdf asdf asdfasd    123123123123
 Chosen is a library for making long, unwieldy select boxes more user friendly...........
 asdf asdf this is different
 asdf
